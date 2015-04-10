@@ -36,7 +36,7 @@ $this->widget('application.extensions.fbLikeShareButton.fbLikeShareButton', arra
 
 # Yii Extension
 
-http://www.yiiframework.com/extension/fb-like-box/
+http://www.yiiframework.com/extension/fb-like-share-button/
 
 
 
