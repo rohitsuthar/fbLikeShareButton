@@ -10,5 +10,5 @@
 </script>
 <?php $height = ($rendered['width']=='')?'auto':$rendered['width'].'px'; ?>
 
-<div class="fb-like" data-href="<?=$rendered['url'];?>" data-width="<?=$rendered['width']?>" data-height="<?=$rendered['height'];?>" data-layout="<?=$rendered['layout'];?>" data-action="<?=$rendered['action'];?>" data-colorscheme="<?=$rendered['color_scheme'];?>" data-show-faces="<?=$rendered['show_faces'];?>" data-share="<?=$rendered['show_share'];?>" style="display:block; height:<?php echo $height.' !important'; ?>"></div>
+<div class="fb-like" data-href="<?=$rendered['url'];?>" data-width="<?=$rendered['width']?>" data-layout="<?=$rendered['layout'];?>" data-action="<?=$rendered['action'];?>" data-colorscheme="<?=$rendered['color_scheme'];?>" data-show-faces="<?=$rendered['show_faces'];?>" data-share="<?=$rendered['show_share'];?>" style="display:block; height:<?php echo $height.' !important'; ?>"></div>
 
