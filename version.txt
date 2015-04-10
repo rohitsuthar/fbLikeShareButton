@@ -1,0 +1,31 @@
+All-in-one Yii extension including Like, Recommend & Share button with custom attributes like - action, layout, color scheme, user faces, show share etc.
+
+It's simple and less code extension but work great.
+
+
+
+Author: Rohit Suthar <rohitsuthar@gmail.com>
+Copyright 2015 Rohit Suthar
+Package: fbLikeShareButton
+Version: 1.0
+
+For more extension & tutorials visit - https://yiiframework.us
+
+
+Like Us on -  https://facebook.com/yiiexperts
+Follow Us on -  https://twitter.com/yiiexperts
+
+
+Contact Me -
+http://fb.com/rohisuthar
+
+
+For Query -
+Mail us - yiiexpert@gmail.com
+
+
+Github -
+https://github.com/rohitsuthar/fbLikeShareButton/
+
+
+Thanks for the support!!
