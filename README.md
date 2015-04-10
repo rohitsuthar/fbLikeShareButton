@@ -21,15 +21,15 @@ Paste the code into your main.php page or also you can use this code as per your
 ~~~
 $this->widget('application.extensions.fbLikeShareButton.fbLikeShareButton', array(
         'fbbutton' => array(
-		'url'=>'https://facebook.com/yiiexperts',
-		'action'=>'like',
-		'width'=>'200',
-		'height'=>'50',
-		'layout'=>'light',
-		'color_scheme'=>'light', 
-		'show_share'=>'true',
-		'show_faces'=>'false',
-	 )
+        'url'=>'https://facebook.com/yiiexperts', //http://www.facebook.com/fb_page
+        'action'=>'like', //Display button - like or recommend
+        'width'=>'200', //Layout width
+        'height'=>'50', //Layout height
+        'layout'=>'standard', //Layout - standard, button_count, button, box_count
+        'color_scheme'=>'light', //Layout color scheme - light, dark
+        'show_share'=>'true', //Display share button - true, false 
+        'show_faces'=>'false', //Show user faces - true, false
+     )
   ));
 ~~~
 
